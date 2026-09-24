@@ -1,6 +1,6 @@
- TryHackMe — Day 04
+day 04 - cybersecurity
 
-Room:** Networking Concepts
+Room: Networking Concepts
 
  Key Things I Learned
 
